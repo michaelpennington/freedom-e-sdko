@@ -3,7 +3,7 @@
 # ----------------------------------- #
 # ----------------------------------- #
 
-RISCV_ARCH=rv32imac
+RISCV_ARCH=rv32imac_zicsr_zifencei
 RISCV_ABI=ilp32
 RISCV_CMODEL=medlow
 RISCV_SERIES=sifive-3-series
